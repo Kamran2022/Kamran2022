@@ -31,11 +31,9 @@ I am full stack engineer specializing mostly in backend programming.
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
+                    </picture></a></p>    
 
-</a></p>### Badges<b>My GitHub Stats</b><a
-                    
-href="http://www.github.com/kamran2022"><img src="https://github-readme-stats.vercel.app/api? 
+### Badges<b>My GitHub Stats</b><ahref="http://www.github.com/kamran2022"><img src="https://github-readme-stats.vercel.app/api? 
 username=kamran2022&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamran2022's GitHub stats" /></a><a
                       href="http://www.github.com/kamran2022"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=kamran2022&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/kamran2022" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran2022&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
