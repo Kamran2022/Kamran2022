@@ -8,9 +8,9 @@ I am full stack engineer specializing mostly in backend programming.
 
 * 🌍  I'm based in Virginia, USA
 * ✉️  You can contact me at [ahmadzaikamran905@gmail.com](mailto:ahmadzaikamran905@gmail.com)
-* 🚀  I'm currently working on [personal projects](http://personal projects)
-* 🧠  I'm learning Kotlin, React, Docker, AWS, and jQuery
-* 🤝  I'm open to collaborating on Java/ spring projects!
+* 🚀  I'm currently working on personal/college projects.
+* 🧠  I'm currently learning to sharpen my skills.
+* 🤝  I'm open to collaborate on any kind of project.
 
 ### Skills
 
