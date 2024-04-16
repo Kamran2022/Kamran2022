@@ -11,7 +11,6 @@ I am full stack engineer specializing mostly in backend programming.
 * 🚀  I'm currently working on [personal projects](http://personal projects)
 * 🧠  I'm learning Kotlin, React, Docker, AWS, and jQuery
 * 🤝  I'm open to collaborating on Java/ spring projects!
-* ⚡  I am also a digital marketing expert
 
 ### Skills
 
